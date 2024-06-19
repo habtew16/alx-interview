@@ -6,7 +6,7 @@ prime game module.
 
 def isWinner(x, nums):
     """
-    determines the winner of a 
+    determines the winner of a
     prime game session with `x` rounds
     """
     if x < 1 or not nums:
